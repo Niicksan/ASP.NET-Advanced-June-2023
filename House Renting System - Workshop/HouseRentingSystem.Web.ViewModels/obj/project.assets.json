@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "HouseRentingSystem.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HouseRentingSystem.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HouseRentingSystem.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HouseRentingSystem.Common/1.0.0": {
+      "type": "project",
+      "path": "../HouseRentingSystem.Common/HouseRentingSystem.Common.csproj",
+      "msbuildProject": "../HouseRentingSystem.Common/HouseRentingSystem.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "HouseRentingSystem.Common >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Nik\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Nik\\Documents\\ASP.NET Advanced - June 2023\\House Renting System - Workshop\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.ViewModels.csproj",
+      "projectName": "HouseRentingSystem.ViewModels",
+      "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Advanced - June 2023\\House Renting System - Workshop\\HouseRentingSystem.Web.ViewModels\\HouseRentingSystem.ViewModels.csproj",
+      "packagesPath": "C:\\Users\\Nik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nik\\Documents\\ASP.NET Advanced - June 2023\\House Renting System - Workshop\\HouseRentingSystem.Web.ViewModels\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Nik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Nik\\Documents\\ASP.NET Advanced - June 2023\\House Renting System - Workshop\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj": {
+              "projectPath": "C:\\Users\\Nik\\Documents\\ASP.NET Advanced - June 2023\\House Renting System - Workshop\\HouseRentingSystem.Common\\HouseRentingSystem.Common.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

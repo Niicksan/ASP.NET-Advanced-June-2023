@@ -1,0 +1,38 @@
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.deps.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.runtimeconfig.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\refint\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.genruntimeconfig.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\ref\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.CopyComplete
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.deps.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.runtimeconfig.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.csproj.CopyComplete
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\refint\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\HouseRentingSystem.Data.genruntimeconfig.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Data\obj\Debug\net6.0\ref\HouseRentingSystem.Data.dll

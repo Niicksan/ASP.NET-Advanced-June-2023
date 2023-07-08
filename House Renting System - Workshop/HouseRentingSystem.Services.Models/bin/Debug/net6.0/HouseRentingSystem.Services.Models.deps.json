@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HouseRentingSystem.Services.Models/1.0.0": {
+        "dependencies": {
+          "HouseRentingSystem.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "HouseRentingSystem.Services.Models.dll": {}
+        }
+      },
+      "HouseRentingSystem.Common/1.0.0": {
+        "runtime": {
+          "HouseRentingSystem.Common.dll": {}
+        }
+      },
+      "HouseRentingSystem.ViewModels/1.0.0": {
+        "dependencies": {
+          "HouseRentingSystem.Common": "1.0.0"
+        },
+        "runtime": {
+          "HouseRentingSystem.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HouseRentingSystem.Services.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HouseRentingSystem.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HouseRentingSystem.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

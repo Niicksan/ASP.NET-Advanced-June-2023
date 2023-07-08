@@ -1,0 +1,48 @@
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.deps.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.CopyComplete
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\refint\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\ref\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.deps.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.Models.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Data.Models.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.csproj.CopyComplete
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\refint\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\HouseRentingSystem.Infrastructure.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\obj\Debug\net6.0\ref\HouseRentingSystem.Infrastructure.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Services.Models.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web.Infrastructure\bin\Debug\net6.0\HouseRentingSystem.Services.Models.pdb

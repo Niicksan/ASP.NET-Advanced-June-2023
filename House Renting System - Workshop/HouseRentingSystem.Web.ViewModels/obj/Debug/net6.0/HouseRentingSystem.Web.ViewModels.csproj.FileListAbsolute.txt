@@ -1,0 +1,15 @@
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.deps.json
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Web.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Common.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\bin\Debug\net6.0\HouseRentingSystem.Common.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.csproj.CopyComplete
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\refint\HouseRentingSystem.Web.ViewModels.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\HouseRentingSystem.Web.ViewModels.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\Project Fundamentals - Workshop\HouseRentingSystem.Web.ViewModels\obj\Debug\net6.0\ref\HouseRentingSystem.Web.ViewModels.dll
