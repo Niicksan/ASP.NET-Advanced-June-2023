@@ -28,12 +28,36 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/House/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/House/All.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcQWxsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/House/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/House/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/House/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/House/Mine.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG91c2VcTWluZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/Shared/_HouseFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib3VzZUZvcm1QYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/Shared/_HousePartial.cshtml]
@@ -42,6 +66,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/Shared/_NotificationsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ob3RpZmljYXRpb25zUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Nik/Documents/ASP.NET Advanced - June 2023/House Renting System - Workshop/HouseRentingSystem.Web/Views/Shared/_ValidationScriptsPartial.cshtml]

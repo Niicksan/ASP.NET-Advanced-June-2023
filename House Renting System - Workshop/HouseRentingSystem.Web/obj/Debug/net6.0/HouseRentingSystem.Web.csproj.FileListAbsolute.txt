@@ -178,3 +178,14 @@ C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Works
 C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\obj\Debug\net6.0\ref\HouseRentingSystem.Web.dll
 C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\HouseRentingSystem.Services.Models.dll
 C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\HouseRentingSystem.Services.Models.pdb
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nik\Documents\ASP.NET Advanced - June 2023\House Renting System - Workshop\HouseRentingSystem.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

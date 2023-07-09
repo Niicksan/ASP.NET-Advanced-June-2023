@@ -1,5 +1,6 @@
 using HouseRentingSystem.Data;
 using HouseRentingSystem.Data.Models;
+using HouseRentingSystem.Infrastructure.ModelBinders;
 using HouseRentingSystem.Services;
 using HouseRentingSystem.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -29,7 +30,12 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options =>
 })
     .AddEntityFrameworkStores<HouseRentingDbContext>();
 
-builder.Services.AddControllersWithViews();
+builder.Services
+    .AddControllersWithViews()
+    .AddMvcOptions(options =>
+        {
+            options.ModelBinderProviders.Insert(0, new DecimalModelBinderProvider());
+        });
 
 builder.Services.AddScoped<IHouseService, HouseService>();
 builder.Services.AddScoped<IAgentService, AgentService>();

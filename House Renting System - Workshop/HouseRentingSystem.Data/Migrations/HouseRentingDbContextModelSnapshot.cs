@@ -213,7 +213,7 @@ namespace HouseRentingSystem.Data.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("7ce2fa80-16ca-4629-838f-e8869fce45b6"),
+                            Id = new Guid("9d0a3e17-ba31-4bfe-9c54-4e24a2a21c74"),
                             Address = "North London, UK (near the border)",
                             AgentId = new Guid("98c666ac-9aee-80c3-5686-08db7fbb6666"),
                             CategoryId = 3,
@@ -227,7 +227,7 @@ namespace HouseRentingSystem.Data.Migrations
                         },
                         new
                         {
-                            Id = new Guid("84b150e4-fbc3-4da6-ba78-6bf3afa08ff4"),
+                            Id = new Guid("4aef1a91-001f-4f68-a0ff-720a044c4ab4"),
                             Address = "Near the Sea Garden in Burgas, Bulgaria",
                             AgentId = new Guid("98c666ac-9aee-80c3-5686-08db7fbb6666"),
                             CategoryId = 2,
@@ -240,7 +240,7 @@ namespace HouseRentingSystem.Data.Migrations
                         },
                         new
                         {
-                            Id = new Guid("76b8383d-0eb9-4374-bb5a-4de11d85fe85"),
+                            Id = new Guid("bcab918e-c67c-451c-93ca-6e9bcbf1ef5b"),
                             Address = "Boyana Neighbourhood, Sofia, Bulgaria",
                             AgentId = new Guid("98c666ac-9aee-80c3-5686-08db7fbb6666"),
                             CategoryId = 2,

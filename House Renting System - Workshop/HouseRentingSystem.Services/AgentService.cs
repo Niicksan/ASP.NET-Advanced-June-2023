@@ -57,5 +57,18 @@
 
             return user.RentedHouses.Any();
         }
+
+        public async Task<string?> GetAgentIdByUserIdAsync(string userId)
+        {
+            Agent? agent = await this.dbContext
+                 .Agents
+                 .FirstOrDefaultAsync(a => a.UserId.ToString() == userId);
+            if (agent == null)
+            {
+                return null;
+            }
+
+            return agent.Id.ToString();
+        }
     }
 }
